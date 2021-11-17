@@ -1,0 +1,27 @@
+nos contratan para desarrollar el modelo del juego de la oca.
+las reglas se pueden leer completas en este enlace:
+https://juegosmesa.org/reglas-instrucciones-oca/
+a continuación haremos un resumen:
+Como Jugar a la Oca.
+• se puede jugar de 2 a 4 jugadores.
+• El objetivo del juego es llegar primero al centro del tablero, alcanzar a la Gran Oca.
+nota: el tablero es en espiral, vas avanzando como un camino, y termina en el centro.
+• Se deben respetar los turnos para lanzar los dados. El juego es el único que decide cuándo esta regla puede ser violada (y lo hace a cada rato, para que vayan preparándose)
+• Se puede jugar con un dado, o con dos.
+• Las casillas del tablero están todas numeradas.
+
+Reglas para el juego de la oca con un solo dado
+
+Se lanza el dado y se avanza según el número que salga.
+Si el jugador cae en una casilla OCA (5,9,14, 18, 23, 27, 32, 36, 41, 45, 50, 54 y 59) gana el derecho avanzar hasta la siguiente casilla OCA, y además puede repetir el tiro.
+Si caes en una casilla PUENTE (6 y 12) hay que avanzar hasta la casilla POSADA (19) y se pierde un turno de tirar. La posada es para dormir, por supuesto…
+Cuando el jugador cae directamente en la POSADA por el tiro del dado…igualmente a dormir hasta el próximo turno.
+• Si tienes la terrible suerte de caer en la casilla LABERINTO (42) estarás obligado a retroceder hasta la casilla 30. ¡doce pasos de retroceso.
+• Puede caer en la casilla CÁRCEL (56), suena mal, pero es una condena cortita, solo dos turnos sin jugar.
+• También hay en el tablero una casilla del infierno llamada CALAVERA (58), la que tiene el efecto de hacer regresar a la casilla 1.
+• ENTRAR AL JARDÍN DE LA OCA: (casilla 63) Al llegar aquí hay que esperar a tener el número exacto de pasos que permitan acceder. el exceso hay que retrocederlo.
+
+Reglas de la Oca con dos dados
+
+Las reglas básicas son iguales, con las diferencias siguientes:
+• A partir de la casilla 60 hay que deshacerse de un dado. Jugar solo con uno de ahí en adelante.
